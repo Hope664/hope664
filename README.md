@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hey, I’m Hope ✨</h1>
 
 <p align="center">
-  <b>Frontend Developer</b> • <b>Backend Learner</b> • <b>UI/UX Designer</b>
+  <b>Frontend Developer</b> • <b>Backend Developer</b> • <b>UI/UX Designer</b>
 </p>
 
 <p align="center">
