@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff6f61&width=650&lines=Hey+👋+I%E2%80%99m+Hope;Frontend+Developer+•+Backend+Learner+•+Creative+Designer)
 
 
 <h1 align="center">✨ Hey, I’m Hope ✨</h1>
