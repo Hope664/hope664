@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**Hope664/hope664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">✨ Hey, I’m Hope ✨</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Frontend Developer</b> • <b>Backend Learner</b> • <b>UI/UX Designer</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🚀 Code • 🎨 Design • 🌍 Impact
+</p>
+
+---
+
+🫧 **Strong at**  
+→ HTML  
+→ CSS  
+→ JavaScript  
+
+🫧 **Currently learning**  
+→ React  
+→ Node.js  
+→ PHP  
+→ Databases  
+→ C Programming  
+
+🫧 **Also familiar with**  
+→ Computer Networking  
+→ Git & GitHub  
+
+---
+
+🫧 **Major Projects**  
+→ 🌱 **AGRISENSE**  
+→ ♻️ **RecycliQ Rwanda**  
+→ 🛒 **Icyuzi Market** *(in progress)*  
+
+---
+
+🫧 **Design & Creativity**  
+→ Figma (UI/UX & prototyping)  
+→ Canva (visual design & layouts)  
+
+---
+
+🫧 **What drives me**  
+→ Building real-world solutions  
+→ Clean design & usable systems  
+→ Growing into a strong full-stack developer  
+
+---
+
+🫧 **Let’s connect**  
+📧 umuhozahope5@gmail.com  
+🐙 GitHub: **@Hope664**
+
+---
+
+<p align="center">
+  🌟 <i>Build with purpose. Design with clarity.</i>
+</p>
+
+
+
